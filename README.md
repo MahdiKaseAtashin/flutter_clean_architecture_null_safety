@@ -1,0 +1,2 @@
+# flutter_clean_architecture_null_safety
+sample project
